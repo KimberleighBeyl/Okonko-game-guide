@@ -886,3 +886,15 @@
 	#main {
 		padding-top: 4em;
 	}
+
+	#okonko{
+		padding-top: 5mm;
+	}
+
+#puzzle{
+	background-image:url('../images/background_2.jpg');
+	background-repeat: no-repeat;
+}
+	#summary{
+		margin-top: 1.3mm;
+	}
