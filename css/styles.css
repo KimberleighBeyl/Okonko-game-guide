@@ -882,7 +882,9 @@
 	}
 
 /* Main */
-
+#audio{
+	    margin-top: 92px;
+}
 	#main {
 		padding-top: 4em;
 	}
@@ -898,3 +900,6 @@
 	#summary{
 		margin-top: 1.3mm;
 	}
+#video{
+	    margin-top: -26px;
+}
